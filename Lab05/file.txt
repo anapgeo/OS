@@ -1,0 +1,13 @@
+First lines
+Hello, i am file.txt
+
+
+
+
+
+
+
+
+
+
+Last lines
