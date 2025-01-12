@@ -1,0 +1,69 @@
+/home/anastasgp/Lab05
+log filename 
+
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 303688      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1210/anastasgp)   Gid: ( 1212/anastasgp)
+Access: 2024-12-16 12:29:34.082665050 +0200
+Modify: 2024-12-16 12:29:34.082665050 +0200
+Change: 2024-12-16 12:29:34.082665050 +0200
+ Birth: -
+./newname.txt
+./destination.txt
+First lines
+Hello, i am file.txt
+
+
+
+
+
+
+
+
+
+
+Last lines
+First lines
+Hello, i am file.txt
+
+
+
+
+
+
+
+
+
+
+Last lines
+First lines
+Hello, i am file.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last lines
+new_folder/
+new_folder/file.txt
+new_folder/
+new_folder/file.txt
+new_folder/
+new_folder/file.txt
+new_folder/
+new_folder/file.txt
+new_folder/
+new_folder/file.txt
